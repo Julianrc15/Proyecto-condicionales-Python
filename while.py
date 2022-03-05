@@ -2,9 +2,6 @@
 
 import math
 
-
-
-
 #declarar bucle
 
 print("empanadas el Machetico")
